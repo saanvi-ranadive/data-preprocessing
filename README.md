@@ -2,7 +2,7 @@
 Mesirov Lab Data Preprocessing Assignment
 
 ## Overview
-In this project I preprocesed data from GCT files in 3 main stages:
+In this project I preprocesed data from GCT files through 3 stages:
 
 1. Read data from the GCT file into a Pandas DataFrame.
 
